@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Keksi</string>
+        <string name="btn_eat_cookie">Pojedi keks</string>
+        <string name="status_hungry">Tak sem lačen</string>
+        <string name="status_full">Tak sem poln</string>
+</resources>
